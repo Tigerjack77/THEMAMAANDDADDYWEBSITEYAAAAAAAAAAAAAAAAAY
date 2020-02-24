@@ -1,0 +1,31 @@
+hr {
+  background: none;
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #757575;
+  border-width: 5px;
+  width: 97%;
+}
+
+}
+
+p {
+  font-family: sans-serif;
+  color: #5f6769;
+    font-size: 20px;
+}
+
+h1 {
+
+  font-family: sans-serif;
+  color: #5f6769;
+    font-size: 100px;
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+a:hover {
+  color: #9aceff
+}
